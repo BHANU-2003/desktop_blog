@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/desktop_blog/static/css/main.5d8a4504.css",
+    "main.js": "/desktop_blog/static/js/main.94d911f9.js",
+    "static/media/img_div.png": "/desktop_blog/static/media/img_div.eccda84d2b75b9f2239c.png",
+    "static/media/PoppinsRegular.ttf": "/desktop_blog/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/desktop_blog/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/RobotoSlabSemiBold.ttf": "/desktop_blog/static/media/RobotoSlabSemiBold.72385cb89132018e7590.ttf",
+    "static/media/RobotoSlabBold.ttf": "/desktop_blog/static/media/RobotoSlabBold.37f7c30bbfc1ebae4939.ttf",
+    "static/media/RobotoSlabRegular.ttf": "/desktop_blog/static/media/RobotoSlabRegular.51fdb083efba0dd8a5ea.ttf",
+    "index.html": "/desktop_blog/index.html",
+    "main.5d8a4504.css.map": "/desktop_blog/static/css/main.5d8a4504.css.map",
+    "main.94d911f9.js.map": "/desktop_blog/static/js/main.94d911f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8a4504.css",
+    "static/js/main.94d911f9.js"
+  ]
+}
