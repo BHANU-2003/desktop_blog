@@ -13,6 +13,9 @@
 - [NodeJS](https://nodejs.org/en/) - v16 or greater
 - [npm](https://www.npmjs.com/) - v6 or greater
 
+## Live demo
+https://desktop-blog.vercel.app/
+
 ## Running in dev environment
 
 1. `cd YOUR_APPLICATION`
