@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div style={{ height: "100vh", padding: "20px", backgroundColor: "#232323", color: "white" }}>
-      <h1 style={{ fontSize: "48px", marginBottom: "20px" }}>Homepage</h1>
+      <h1 style={{ fontSize: "48px", marginBottom: "20px" }}>Blog Repo</h1>
       <p style={{ fontSize: "18px", marginBottom: "30px" }}>
         This project was done By{" "}
         Bhanu Chaitanya. 
